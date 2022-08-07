@@ -9,7 +9,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 ###########################################################
 remote_theme: samarsault/plainwhite-jekyll
-theme: plainwhite
+# theme: plainwhite
 ###########################################################
 
 # Minima date format
