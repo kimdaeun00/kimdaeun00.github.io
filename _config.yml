@@ -17,8 +17,8 @@ remote_theme: samarsault/plainwhite-jekyll
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Kim Daeun
-  tagline: Babo.
+  name: Daeun Kim
+  tagline: KAIST CS.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -31,9 +31,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
+    #twitter: samarsault
     github:  samarsault
-    linkedIn: in/samarsault
+    #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
