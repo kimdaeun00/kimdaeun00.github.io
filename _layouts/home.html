@@ -27,9 +27,13 @@ layout: default
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
         <a class="post-link" href="{{ post.url | relative_url }}">
-          <h2 class="post-title">{{ post.title }}</h2>
+          <h2 class="post-title">{{ post.title | escape }}</h2>
         </a>
         <div class="post-meta">
+          <div class="post-date">
+            <i class="icon-calendar"></i>
+            {{ post.date | date: date_format }}
+          </div>
           {%- if post.categories.size > 0-%}
           <ul class="post-categories">
             {%- for tag in post.categories -%}
