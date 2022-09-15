@@ -12,4 +12,4 @@ Research Interests
 
 [cskaist]: https://cs.kaist.ac.kr
 [jspark]: https://jongse-park.github.io
-[casys]: https://casys.kaist.ac.kr
+[casys]: https://calab.kaist.ac.kr
