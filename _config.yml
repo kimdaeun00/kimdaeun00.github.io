@@ -16,7 +16,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Daeun Kim
-  tagline: KAIST CS
+  tagline: KAIST CASYS Lab
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: false # set to true to enable searchbar
@@ -31,7 +31,7 @@ plainwhite:
   social_links:
     #twitter: samarsault
     github:  kimdaeun00
-    #linkedIn: in/samarsault
+    linkedIn: in/daeun-kim-446a152bb/
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
