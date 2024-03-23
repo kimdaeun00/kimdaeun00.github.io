@@ -6,10 +6,6 @@ date:   2022-09-13 21:03:36 +0530
 - M.S. student in Computer Science at [KAIST][cskaist], advised by [Prof.Jongse Park][jspark]. 
 - Member of [Computer Architecture and Systems Lab][casys]. 
 
-Research Interests
-- System for AI
-- Video Analytics System
-
 [cskaist]: https://cs.kaist.ac.kr
 [jspark]: https://jongse-park.github.io
 [casys]: https://calab.kaist.ac.kr
