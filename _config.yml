@@ -16,7 +16,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Daeun Kim
-  tagline: M.S. Student in KAIST CASYS Lab
+  tagline: Ph.D. Student @ KAIST CASYS
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: false # set to true to enable searchbar
