@@ -4,7 +4,7 @@ title:  "About me"
 date:   2022-09-13 21:03:36 +0530
 ---
 - I am Ph.D. student in School of Computing at KAIST [Computer Architecture and Systems Lab][casys], advised by [Prof. Jongse Park][jspark]. 
-- CV [link][resume]
+- You can find my CV [here][resume]
 
 [jspark]: https://jongse-park.github.io
 [casys]: https://casyslab.kaist.ac.kr
