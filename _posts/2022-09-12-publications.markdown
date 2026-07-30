@@ -3,6 +3,8 @@ layout: post
 title:  "Publications"
 date:   2022-09-12 21:03:35 +0530
 ---
+- **Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation**, <U>Daeun Kim</U>, Junwha Hong, Changhun Oh, Yoonsung Kim, Yoonhyeong Lee, Jongse Park, <span style="color: green"><em>**IISWC**</em></span>, 2026, [[paper]][iiswc]
+<!--  -->
 - **Déjà Vu: Efficient Video-Language Query Engine with Learning-based Inter-Frame Computation Reuse**, Jinwoo Hwang, <U>Daeun Kim</U>, Sangyeop Lee, Yoonsung Kim, Guseul Heo, Hojoon Kim, Yunseok Jeong, Tadiwos Meaza, Eunhyeok Park, Jeongseob Ahn, Jongse Park, <span style="color: green"><em>**VLDB**</em></span>, 2025, [[paper]][dejavu]
 <!--  -->
 - **MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization**, <U>Daeun Kim</U>, Jinwoo Hwang, Changhun Oh, Jongse Park, <span style="color: green"><em>**IEEE Computer Architecture Letters(CAL)**</em></span>, 2025, [[paper]][mixdit]
@@ -12,3 +14,4 @@ date:   2022-09-12 21:03:35 +0530
 [atc]: https://www.usenix.org/system/files/atc22-hwang.pdf
 [mixdit]: https://arxiv.org/abs/2504.08398
 [dejavu]: http://arxiv.org/abs/2506.14107
+[iiswc]: https://kimdaeun00.github.io/
