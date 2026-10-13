@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 $linkColor: #0a59b0;
+$venueColor: #008000; // color of venue names in publications
 $mobileW: 768px;
 $smallMobileW: 480px;
 $bigScreenW: 1600px;
@@ -270,6 +271,11 @@ main {
   line-height: 1.9em;
   p {
     margin-top: 10px;
+  }
+  .venue {
+    color: $venueColor;
+    font-style: italic;
+    font-weight: bold;
   }
   // tighter wrapped lines inside a bullet, extra space between bullets
   li {
