@@ -267,6 +267,13 @@ main {
   p {
     margin-top: 10px;
   }
+  // tighter wrapped lines inside a bullet, extra space between bullets
+  li {
+    line-height: 1.5em;
+  }
+  li + li {
+    margin-top: 0.5em;
+  }
   a {
     color: $linkColor;
     text-decoration: none;
