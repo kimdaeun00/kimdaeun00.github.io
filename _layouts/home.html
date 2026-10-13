@@ -10,9 +10,8 @@ layout: default
 
 {%- if site.posts.size > 0 -%}
   <ul class="posts">
+    {% if site.plainwhite.search %}
     <li class="posts-labelgroup" id="posts-labelgroup">
-      <h1 id="posts-label">posts</h1>
-      {% if site.plainwhite.search %}
       <div class="search-container">
         <div class="search-section">
           <i class="icon-search"></i>
@@ -20,15 +19,13 @@ layout: default
         </div>
         <div class="search-results" id="search-results" data-placeholder="No Results" style="display: none;"></div>
       </div>
-      {% endif %}
     </li>
+    {% endif %}
 
     {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          <h2 class="post-title">{{ post.title | escape }}</h2>
-        </a>
+        <h2 class="post-title">{{ post.title | escape }}</h2>
         <!-- <div class="post-meta">
           <div class="post-date">
             <i class="icon-calendar"></i>
