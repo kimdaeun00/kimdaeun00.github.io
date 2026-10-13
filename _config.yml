@@ -30,7 +30,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    github:  kimdaeun00
+    #github:  kimdaeun00
     linkedIn: in/daeun-kim-446a152bb/
     #dribbble: jekyll
     #flickr:   jekyll
@@ -42,6 +42,7 @@ plainwhite:
     #telegram: jekyll
     #gitlab: jekyll
     email: dekim@casys.kaist.ac.kr
+    scholar: "https://scholar.google.com/citations?user=XW0_eu4AAAAJ&hl=ko"
     cv: /files/resume.pdf
 
     # Mastodon instances
