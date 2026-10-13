@@ -147,6 +147,15 @@ main {
       font-size: 34px;
     }
   }
+  // PNG used as a mask so it takes the text color like the font icons
+  .icon-cv:before {
+    content: "";
+    height: 1em;
+    vertical-align: top;
+    background-color: currentColor;
+    -webkit-mask: url("../cv.png") center / 80% no-repeat;
+    mask: url("../cv.png") center / 80% no-repeat;
+  }
 }
 
 .navigation {

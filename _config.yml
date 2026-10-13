@@ -42,6 +42,7 @@ plainwhite:
     #telegram: jekyll
     #gitlab: jekyll
     email: dekim@casys.kaist.ac.kr
+    cv: /files/resume.pdf
 
     # Mastodon instances
     # mastodon:
