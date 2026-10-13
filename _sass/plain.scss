@@ -146,6 +146,10 @@ main {
     i {
       font-size: 34px;
     }
+    // the envelope glyph is wider than the others, so shrink it to match
+    i.icon-mail-alt:before {
+      transform: scale(0.85);
+    }
   }
   // PNGs used as masks so they take the text color like the font icons
   .icon-cv:before,
